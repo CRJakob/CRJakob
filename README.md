@@ -1,4 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm Jakob, a beginner Coder from Germany
+
+![status](https://api.statusbadges.me/badge/status/800851541007007754?style=for-the-badge)  ![playing](https://api.statusbadges.me/badge/playing/800851541007007754?style=for-the-badge)    ![vscode](https://api.statusbadges.me/badge/vscode/800851541007007754?style=for-the-badge)  [![spotify](https://api.statusbadges.me/badge/spotify/800851541007007754?style=for-the-badge)](https://api.statusbadges.me/openspotify/800851541007007754)
+
+Currently learning Java in school and trying to learn JS
+
+## Contact:
+Discord: [pcmc](https://discord.com/user/800851541007007754)  
+E-Mail: [jakob@crjakob.com](mailto:jakob@crjakob.com)
+
+## My Current Projects:
+
+### [PolyPacks](https://github.com/CRJakob/PolyPacks)
+A w.i.p mod for the game [PolyTrack](https://www.kodub.com/apps/polytrack) that uses [PolyModLoader](https://github.com/polytrackmods/PolyModLoader) to implement a Resource Pack system similar to Minecraft, which lets you override the Game's Resources. Co-developed by [Lockheed SR-71 Blackbird](https://github.com/GameBuilder202).
+
+### [Goofy Cars](https://github.com/CRJakob/jakobspolymods/tree/main/goofycars) and [Cool Cars](https://github.com/CRJakob/jakobspolymods/tree/main/coolcars)
+Addons to [Orangy](https://github.com/0rangy)'s [Car Switcher](https://github.com/0rangy/OrangysPolyMods/tree/main/carswitcher) Mod for [PolyTrack](https://www.kodub.com/apps/polytrack) which add some Goofy and Cool cars respectively.
 
 <!--
 **CRJakob/CRJakob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
