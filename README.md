@@ -5,13 +5,17 @@
 Currently learning Java in school and trying to learn JS
 
 <p><i>This profile is part of the [<a href="https://octo-ring.com/">GitHub Octo Ring</a>]</i></p>  
-<p><i>[<a href=https://octo-ring.com/p/CRJakob/prev>Previous</a>] / [<a href=https://octo-ring.com/p/CRJakob/random>Random</a>] / [<a href=https://octo-ring.com/p/CRJakob/next>Next</a>]
+<p><i>[<a href=https://octo-ring.com/p/CRJakob/prev>Previous</a>] / [<a href=https://octo-ring.com/p/CRJakob/random>Random</a>] / [<a href=https://octo-ring.com/p/CRJakob/next>Next</a>]</i>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CRJakob/CRJakob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CRJakob/CRJakob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CRJakob/CRJakob/output/github-contribution-grid-snake.svg">
 </picture>
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=CRJakob&show_icons=true&locale=en&theme=transparent&hide_border=true&text_color=FFFFFF&title_color=bd26ff&icon_color=bd26ff&include_all_commits=true?show=prs_merged,reviews&repo=CRJakob)](https://github.com/CRJakob/CRJakob)
+
+
 
 ## Contact:
 Discord: [pcmc](https://discord.com/user/800851541007007754)  
